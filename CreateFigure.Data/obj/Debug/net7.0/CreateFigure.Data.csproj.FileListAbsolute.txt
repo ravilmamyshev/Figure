@@ -1,0 +1,12 @@
+C:\Users\ravil\source\repos\Figure\CreateFigure.Data\CreateFigure.Data\bin\Debug\net7.0\CreateFigure.Data.deps.json
+C:\Users\ravil\source\repos\Figure\CreateFigure.Data\CreateFigure.Data\bin\Debug\net7.0\CreateFigure.Data.dll
+C:\Users\ravil\source\repos\Figure\CreateFigure.Data\CreateFigure.Data\bin\Debug\net7.0\CreateFigure.Data.pdb
+C:\Users\ravil\source\repos\Figure\CreateFigure.Data\CreateFigure.Data\obj\Debug\net7.0\CreateFigure.Data.csproj.AssemblyReference.cache
+C:\Users\ravil\source\repos\Figure\CreateFigure.Data\CreateFigure.Data\obj\Debug\net7.0\CreateFigure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravil\source\repos\Figure\CreateFigure.Data\CreateFigure.Data\obj\Debug\net7.0\CreateFigure.Data.AssemblyInfoInputs.cache
+C:\Users\ravil\source\repos\Figure\CreateFigure.Data\CreateFigure.Data\obj\Debug\net7.0\CreateFigure.Data.AssemblyInfo.cs
+C:\Users\ravil\source\repos\Figure\CreateFigure.Data\CreateFigure.Data\obj\Debug\net7.0\CreateFigure.Data.csproj.CoreCompileInputs.cache
+C:\Users\ravil\source\repos\Figure\CreateFigure.Data\CreateFigure.Data\obj\Debug\net7.0\CreateFigure.Data.dll
+C:\Users\ravil\source\repos\Figure\CreateFigure.Data\CreateFigure.Data\obj\Debug\net7.0\refint\CreateFigure.Data.dll
+C:\Users\ravil\source\repos\Figure\CreateFigure.Data\CreateFigure.Data\obj\Debug\net7.0\CreateFigure.Data.pdb
+C:\Users\ravil\source\repos\Figure\CreateFigure.Data\CreateFigure.Data\obj\Debug\net7.0\ref\CreateFigure.Data.dll
